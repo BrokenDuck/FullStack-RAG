@@ -1,0 +1,9 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = ./Frontend
+[submodule "Backend"]
+	path = Backend
+	url = ./Backend
+[submodule "Database"]
+	path = Database
+	url = ./Database
