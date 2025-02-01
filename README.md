@@ -8,6 +8,13 @@ This project contains a FullStack RAG application. It allows users to upload doc
 
 While the current state of the project is still quite simple, it was implemented in a robust manner, uses proven modern tools and allows for collaboration by multiple users.
 
+## Installation
+
+Clone the repository to use it:
+```bash
+git clone --recurse-submodules https://github.com/BrokenDuck/FullStack-RAG
+```
+
 ## Usage
 
 You should look at `./Frontend/README.md` for more information on how to get the frontend running. `./Backend/README.md` contains all the information for running the backend. You will need some keys for the Cohere model API. You can create a free account with some API credits [on the Cohere website](https://cohere.com/).
