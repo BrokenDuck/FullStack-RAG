@@ -1,9 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
-	url = ./Frontend
+	url = https://github.com/BrokenDuck/FullStack-RAG-Frontend
 [submodule "Backend"]
 	path = Backend
-	url = ./Backend
-[submodule "Database"]
-	path = Database
-	url = ./Database
+	url = https://github.com/BrokenDuck/FullStack-RAG-Backend
